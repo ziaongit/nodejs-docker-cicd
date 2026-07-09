@@ -1,0 +1,18 @@
+{
+  "name": "node-docker-demo",
+  "version": "1.0.0",
+  "description": "Node.js REST API containerized with Docker and deployed via GitHub Actions",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
