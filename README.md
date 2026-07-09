@@ -3,7 +3,7 @@
 A production-ready Node.js REST API containerized with Docker and deployed automatically via GitHub Actions.
 
 Built as the companion repository for the freeCodeCamp article:
-**[How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions](https://www.freecodecamp.org/news/)**
+**How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions** *(freeCodeCamp — publishing soon)*
 
 ---
 
